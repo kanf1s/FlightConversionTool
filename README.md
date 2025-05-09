@@ -16,3 +16,8 @@ Simple offline unit converter for Tu-154 pilots and similar aircraft.
 - 🔄 Переключение языка прямо в интерфейсе (🇷🇺 Русский / 🇬🇧 English)
 
 ---
+
+## Скачать/Download
+
+- Вы можете скачать актуальную версию по ссылке: https://github.com/kanf1s/FlightConversionTool/releases
+- You can download an actual version via link: https://github.com/kanf1s/FlightConversionTool/releases
