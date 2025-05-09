@@ -1,0 +1,16 @@
+# PyInstaller build folders
+build/
+dist/
+
+# PyInstaller spec file
+*.spec
+
+# Python cache
+__pycache__/
+
+# User config file
+config.txt
+
+# Mac/Linux metadata (на всякий случай)
+.DS_Store
+*.swp
