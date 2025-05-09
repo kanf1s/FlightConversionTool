@@ -1,0 +1,19 @@
+# PyInstaller build folders
+build/
+dist/
+
+# PyInstaller spec file
+converter.spec
+
+# User config file (language)
+config.txt
+
+# Python cache
+__pycache__/
+
+# MacOS system files (на всякий случай)
+.DS_Store
+
+# Vim/IDE temporary files (опционально)
+*.swp
+*.swo
